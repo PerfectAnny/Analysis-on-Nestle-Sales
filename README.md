@@ -32,3 +32,6 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 . Max and Min Function
 
 . Date Function
+
+
+                                                                     ## Trend of total sales per products
