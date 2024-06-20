@@ -1,4 +1,4 @@
-Nestle Sales Analysis
+# Nestle Sales Analysis
 
 
 
@@ -9,3 +9,26 @@ Nestle Sales Analysis
 Introduction
 
 This is an excel sales analysis carried out on  Nestle products. The project is aimed at analyzing and deriving insights which show the performances of current products and help the company to make data driven decisions.
+
+
+Problem statement
+
+1. What is the trend of the total revenue per product in the last 3 years?
+2. What is the monthly revenue trend?
+3. Compare the different products based on the maximum and minimum revenue generated
+4. Which location had the highest and lowest sales? 5.Generate insights from the sales medium to help the head of growth take a decision.
+
+
+   Skills/ Functions demonstrated;
+   
+ The following Excel functions were used in this analysis:
+
+. Power Pivot
+
+. Vlookup Function
+
+. If Function
+
+. Max and Min Function
+
+. Date Function
