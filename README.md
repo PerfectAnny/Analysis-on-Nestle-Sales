@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This is an excel sales analysis carried out on  Nestle products. The project is aimed at analyzing and deriving insights which show the performances of current products and help the company to make data driven decisions.
+This is an excel sales analysis carried out on  Nestle products. The project is aimed at analyzing anderiving insights which show the performances of current products and help the company to make data driven decisions.
 
 
 ## Problem statement
@@ -34,4 +34,8 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 . Date Function
 
 
-<div>Trend of total sales per products<span>
+Trend of total sales per product
+
+
+![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/d38afdb9-a44a-478e-9b4d-470b53864215)
+
