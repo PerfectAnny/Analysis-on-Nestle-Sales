@@ -34,4 +34,4 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 . Date Function
 
 
-                                                                     ## Trend of total sales per products
+<div>Trend of total sales per products<span>
