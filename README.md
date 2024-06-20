@@ -19,7 +19,7 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 4. Which location had the highest and lowest sales? 5.Generate insights from the sales medium to help the head of growth take a decision.
 
 
-   ## Skills/ Functions demonstrated;
+## Skills/ Functions demonstrated;
    
  The following Excel functions were used in this analysis:
 
