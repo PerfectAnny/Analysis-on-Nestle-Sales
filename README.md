@@ -11,7 +11,7 @@
 This is an excel sales analysis carried out on  Nestle products. The project is aimed at analyzing and deriving insights which show the performances of current products and help the company to make data driven decisions.
 
 
-Problem statement
+## Problem statement
 
 1. What is the trend of the total revenue per product in the last 3 years?
 2. What is the monthly revenue trend?
@@ -19,7 +19,7 @@ Problem statement
 4. Which location had the highest and lowest sales? 5.Generate insights from the sales medium to help the head of growth take a decision.
 
 
-   Skills/ Functions demonstrated;
+   ## Skills/ Functions demonstrated;
    
  The following Excel functions were used in this analysis:
 
