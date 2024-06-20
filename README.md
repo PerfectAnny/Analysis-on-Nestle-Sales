@@ -6,7 +6,7 @@
 
 
 
-Introduction
+## Introduction
 
 This is an excel sales analysis carried out on  Nestle products. The project is aimed at analyzing and deriving insights which show the performances of current products and help the company to make data driven decisions.
 
