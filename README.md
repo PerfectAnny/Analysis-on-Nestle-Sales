@@ -50,6 +50,12 @@ This section provides an overview of the company's sales performance. To analyze
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/3025e7e7-944f-4840-8dcd-1e051f1ba76b)
 
 
+<div style="text-align: center;">
+  To extract the month from the dates, the TEXT function (`=TEXT([@Date], "mmm")`) is used. A pivot table is then created with the month in the rows and revenue in the values box. This setup provides a visual representation of revenue generated each month, allowing us to observe monthly revenue trends.
+</div>
+
+
+
 
 
 
