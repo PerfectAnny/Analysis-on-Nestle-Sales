@@ -46,7 +46,9 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 This section provides an overview of the company's sales performance. To analyze revenue per product, no special functions are needed. Simply create a pivot table with products in the rows and revenue in the values. The results can be visualized with a column chart and filtered by the desired years.
 
 
-## Monthly Revenue Trend ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/45a8dc2e-a41e-4927-b291-427519e9d66e)
+## Monthly Revenue Trend 
+![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/3025e7e7-944f-4840-8dcd-1e051f1ba76b)
+
 
 
 
