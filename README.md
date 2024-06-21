@@ -54,9 +54,9 @@ This section provides an overview of the company's sales performance. To analyze
   To extract the month from the dates, the TEXT function (`=TEXT([@Date], "mmm")`) is used. A pivot table is then created with the month in the rows and revenue in the values box. This setup provides a visual representation of revenue generated each month, allowing us to observe monthly revenue trends.
 </div>
 
-### Max                                                 
+## Max                                                 
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/61181e8a-5183-4538-9518-5effcde5cdfa)
-### Max 
+## Max 
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/fcdf13a7-b130-4859-a896-2e877df7d38e)
 
 
