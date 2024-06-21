@@ -59,8 +59,6 @@ This section provides an overview of the company's sales performance. To analyze
 ## Min
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/fcdf13a7-b130-4859-a896-2e877df7d38e)
 
-# Revenue Performance Analysis
-
 <div style="text-align: center;">
   The maximum and minimum revenue are determined by creating a pivot table with product in the rows and revenue in the values. The value field settings are then adjusted to display the maximum and minimum revenue. This provides the company with a clear understanding of the revenue performance of each product.
 </div>
