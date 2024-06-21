@@ -62,6 +62,13 @@ This section provides an overview of the company's sales performance. To analyze
   The maximum and minimum revenue are determined by creating a pivot table with product in the rows and revenue in the values. The value field settings are then adjusted to display the maximum and minimum revenue. This provides the company with a clear understanding of the revenue performance of each product.
 </div>
 
+## Location with the highest and lowest revenue
+![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/800ad070-ff06-466e-ba4e-95371e7df089)
+<div style="text-align: center;">
+  To analyze the locations with the highest and lowest sales, we created a pivot table summarizing the required data (revenue and location). To identify these locations, a VLOOKUP function (`=VLOOKUP(L57, L57:M63, 2, FALSE)`) was used to create a table from the pivot table, containing columns for location and revenue. Next, the IF, MAX, and MIN functions (`=IF([@Sales]=MAX([Sales]), [@Sales], "NA")`) were employed. The results were then visualized using a column chart with distinct colors highlighting the locations with the highest and lowest sales.
+</div>
+
+
 
 
 
