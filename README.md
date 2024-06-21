@@ -39,9 +39,6 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 
 ## Trend of Total Sales Per Products
 
-
-
-
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/f38c04d2-ad78-456e-b06f-7118d08d60c6)
 
 
