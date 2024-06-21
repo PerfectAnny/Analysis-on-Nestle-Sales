@@ -34,8 +34,7 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 . Date Function
 
 
-Trend of total sales per product
+![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/a448fe81-3cc6-4406-bd58-11953bff5e27)
 
 
-![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/d38afdb9-a44a-478e-9b4d-470b53864215)
 
