@@ -68,17 +68,19 @@ This section provides an overview of the company's sales performance. To analyze
   To analyze the locations with the highest and lowest sales, we created a pivot table summarizing the required data (revenue and location). To identify these locations, a VLOOKUP function (`=VLOOKUP(L57, L57:M63, 2, FALSE)`) was used to create a table from the pivot table, containing columns for location and revenue. Next, the IF, MAX, and MIN functions (`=IF([@Sales]=MAX([Sales]), [@Sales], "NA")`) were employed. The results were then visualized using a column chart with distinct colors highlighting the locations with the highest and lowest sales.
 </div>
 
-#Final REport
+
+# Final REport
 
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/655bec6e-5a75-4d51-add5-fa99fa6b0681)
+
 
 Note This Excel report is slicable by year and product
 #Insights and Conclusion
 
-. Milo recorded the highest revenue between the period of 2018 - 2020
-. Austrialian Capital Territory emerged location with the highest revenue.
-. Average annual growth from 2018 - 2020 stood at 10%
-. Extra resources should be allocated to products/locations with high revenues to maximize and capitalize on strong performance.
+1.  Milo recorded the highest revenue between the period of 2018 - 2020
+2. Austrialian Capital Territory emerged location with the highest revenue.
+3. Average annual growth from 2018 - 2020 stood at 10%
+4. Extra resources should be allocated to products/locations with high revenues to maximize and capitalize on strong performance.
 
 
 
