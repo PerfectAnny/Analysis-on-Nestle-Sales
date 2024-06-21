@@ -56,7 +56,7 @@ This section provides an overview of the company's sales performance. To analyze
 
 ## Max                                                 
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/61181e8a-5183-4538-9518-5effcde5cdfa)
-## Max 
+## Min
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/fcdf13a7-b130-4859-a896-2e877df7d38e)
 
 
