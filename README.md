@@ -69,7 +69,7 @@ This section provides an overview of the company's sales performance. To analyze
 </div>
 
 
-# Final REport
+# Final Report
 
 ![image](https://github.com/PerfectAnny/Analysis-on-Nestle-Sales/assets/151845494/655bec6e-5a75-4d51-add5-fa99fa6b0681)
 
