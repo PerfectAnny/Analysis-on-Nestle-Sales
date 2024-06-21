@@ -40,8 +40,8 @@ This is an excel sales analysis carried out on  Nestle products. The project is 
 
 
 <div style="text-align: center;">
-This section provides an overview of the company's sales performance. To analyze revenue per product, no special functions are needed. Simply create a pivot table with products in the rows and revenue in the values. The results can be visualized with a column chart and filtered by the desired years.
-</div>
+This section provides an overview of the company's sales performance. To analyze revenue per product, no special functions are needed. Simply create a pivot table with products in the rows and revenue in the values. The results can be visualized with a column chart and filtered by the desired years.</div>
+
 
 
 
